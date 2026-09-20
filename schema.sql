@@ -1,0 +1,1 @@
+-- Table + bucket definitions land here in Step 7. Nothing yet.
